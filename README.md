@@ -1,3 +1,6 @@
+# k参考URL
+https://www.pc-koubou.jp/magazine/44001
+
 # SampleTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
